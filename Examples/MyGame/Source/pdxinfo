@@ -1,0 +1,5 @@
+name=MyGame
+author=MyGameAuthor
+description=A description
+bundleID=com.MyGameAuthor.MyGame
+imagePath=
